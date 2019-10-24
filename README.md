@@ -1,4 +1,4 @@
-# practice_case_1_IYKRA
+# D4_practice_case_1_IYKRA
 Exploratory Data Analysis on German Credit dataset
 
 # Dataset
